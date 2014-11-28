@@ -1,7 +1,7 @@
 #metroPy#
 
 
-> The simple metronome written in Python. 
+> The simple CLI metronome written in Python with PyGame.
 
 How to use? It is EASY! On your computer, open your command line application, 
 and then `python <your file with click> <tempo>`.
